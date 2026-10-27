@@ -1,1 +1,14 @@
 
+Phase 1. Understand the dataset
+-------------------------------------------------
+
+Structured vs. unstructured data
+Rows, columns, features, labels, and targets
+Numerical features: continuous and discrete
+Categorical features: nominal and ordinal
+Binary, datetime, text, and identifier columns
+Target variable identification
+Data types and schema validation
+Data granularity — what one row represents
+Data sources, data collection, and sampling bias
+Data quality assessment
